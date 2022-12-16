@@ -9,3 +9,5 @@ In this project, I am using Python to create test multiple models simotaniously 
 [Link to model app deployment source code](https://github.com/danplotkin/Body_Performance_App/blob/main/bp_app.py)
 
 [Link to Streamlit web app](https://danplotkin-body-performance-app-bp-app-kpi88y.streamlit.app/)
+
+[Link to Kaggle data set](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
