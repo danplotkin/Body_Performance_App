@@ -4,7 +4,7 @@ In physical therapy/personal training, trainers need a way to have an initial te
 
 In this project, I am using Python to create test multiple models simotaniously using bayesian optimization. I am using the optimal model to deploy into a Streamlit web app that can be used for interactive predictions.
 
-[Link to .ipynb file](https://nbviewer.org/github/danplotkin/Body_Performance_App/blob/main/BodyPerformance.ipynb)
+[Link to .ipynb file](https://nbviewer.org/github/danplotkin/Body_Performance_App/blob/main/BodyPerformanceModel.ipynb)
 
 [Link to model app deployment source code](https://github.com/danplotkin/Body_Performance_App/blob/main/bp_app.py)
 
